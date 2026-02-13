@@ -116,6 +116,8 @@ ln -s /PATH/TO/DOWNLOADED/FOLDER data
 </details>
 
 
+
+
 **Note**: 2D processed datasets (e.g. `scannet_2d`) are only needed if you want to do multi-view feature fusion on your own. If so, please follow the [instruction for multi-view fusion](./scripts/feature_fusion/README.md).
 
 ### Multi-view Fused Features
